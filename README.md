@@ -4,8 +4,6 @@ Welcome to the **Git & GitHub Workshop**! This repository is the main hub for
 participants interested in learning how to version control their projects using 
 Git and collaborate with others using GitHub.
 
----
-
 ## 🚀 Workshop Overview
 
 **🔹 Title**: Git & GitHub for Beginners  
@@ -20,20 +18,6 @@ What you’ll learn:
 ✅ Pushing to a remote repository  
 ✅ Collaborating with others (pull requests, issues)  
 ✅ Branching and merging  
-
----
-
-# 📅 Workshop Agenda
-
-| Time | Topic                              |
-| ---- | ---------------------------------- |
-| 0:00 | Introduction to Version Control    |
-| 0:15 | Installing Git & Setting Up GitHub |
-| 0:30 | Basic Git Commands                 |
-| 1:00 | Working with GitHub                |
-| 1:30 | Collaboration & Workflow           |
-| 2:00 | Q\&A and Practice                  |
-
 
 ## 💻 Getting Started
 
@@ -52,21 +36,19 @@ git --version
 👉 [Sign up for GitHub](https://github.com/signup)
 👉 [Getting Started with GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-# 📂 Repository Contents
+## 📂 Repository Contents
 
  - `slides/` – The workshop presentation slides
- - `examples/` – Example Git commands and mini projects
+ - `examples/` – Example Git commands used in this workshop 
  - `README.md` – This document
 
-
-# 📚 Additional Resources
+## 📚 Additional Resources
 
  - [Pro Git Book](https://git-scm.com/book/en/v2)
  - [GitHub Docs](https://docs.github.com/en)
  - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-
-# 🙌 Contributing
+## 🙌 Contributing
 
 Have suggestions or want to help improve this workshop? Feel free to open a
 pull request or an issue!
