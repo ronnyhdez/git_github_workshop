@@ -23,15 +23,50 @@ What you’ll learn:
 
 ---
 
+# 📅 Workshop Agenda
+
+| Time | Topic                              |
+| ---- | ---------------------------------- |
+| 0:00 | Introduction to Version Control    |
+| 0:15 | Installing Git & Setting Up GitHub |
+| 0:30 | Basic Git Commands                 |
+| 1:00 | Working with GitHub                |
+| 1:30 | Collaboration & Workflow           |
+| 2:00 | Q\&A and Practice                  |
+
+
 ## 💻 Getting Started
 
 ### 1️⃣ Install Git
 
 👉 [Download and install Git](https://git-scm.com/downloads)  
-👉 [Installation video tutorial](https://www.youtube.com/watch?v=2sjqTHE0zok)  
 
 Verify your installation by running:
 
 ```bash
 git --version
 ```
+
+### 2️⃣ Create a GitHub Account
+
+👉 [Sign up for GitHub](https://github.com/signup)
+👉 [Getting Started with GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+
+# 📂 Repository Contents
+
+ - `slides/` – The workshop presentation slides
+ - `examples/` – Example Git commands and mini projects
+ - `README.md` – This document
+
+
+# 📚 Additional Resources
+
+ - [Pro Git Book](https://git-scm.com/book/en/v2)
+ - [GitHub Docs](https://docs.github.com/en)
+ - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+# 🙌 Contributing
+
+Have suggestions or want to help improve this workshop? Feel free to open a
+pull request or an issue!
