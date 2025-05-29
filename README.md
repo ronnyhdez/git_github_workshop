@@ -19,6 +19,31 @@ What you’ll learn:
 ✅ Collaborating with others (pull requests, issues)  
 ✅ Branching and merging  
 
+## Schedule
+
+### Day 1
+
+| Time            | Topic                                         |
+|-----------------|-----------------------------------------------|
+| **13:00 - 13:15** | 🔹 Welcome, Introduction, and Workshop Rules  |
+| **13:15 - 13:40** | 🔹 What is Git? What is GitHub?               |
+| **13:40 - 14:10** | 🔹 First Steps with Git                       |
+| **14:10 - 14:20** | ☕ Break                                      |
+| **14:20 - 14:40** | 🔹 More Git Commands (log, diff, etc.)        |
+| **14:40 - 15:00** | 🔹 Exploring GitHub Repositories |
+
+### Day 2
+
+| Time            | Topic                                         |
+|-----------------|-----------------------------------------------|
+| **13:00 - 13:20** | 🔹 Individual Workflow                        |
+| **13:20 - 13:40** | 🔹 Team Collaboration Workflow                |
+| **13:40 - 14:10** | 🔹 Deeper Dive and Practice                   |
+| **14:10 - 14:20** | ☕ Break                                      |
+| **14:20 - 14:50** | 🔹 Hands-on Practice                          |
+| **14:50 - 15:00** | 🔹 Wrap-up and Final Q&A                      |
+
+
 ## 💻 Getting Started
 
 ### 1️⃣ Install Git
