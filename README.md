@@ -6,7 +6,7 @@ Git and collaborate with others using GitHub.
 
 ## 🚀 Workshop Overview
 
-**🔹 Title**: Git & GitHub for Beginners  
+**🔹 Title**: Package Maintenance Fundamentals. A Git and GitHub Workshop  
 **🔹 Audience**: Anyone new to version control  
 **🔹 Objective**: Learn how to manage your code and collaborate with others using Git and GitHub  
 
