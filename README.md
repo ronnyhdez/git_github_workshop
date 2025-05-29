@@ -33,8 +33,8 @@ git --version
 
 ### 2️⃣ Create a GitHub Account
 
-👉 [Sign up for GitHub](https://github.com/signup)
-👉 [Getting Started with GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+- 👉 [Sign up for GitHub](https://github.com/signup)
+- 👉 [Getting Started with GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
 ## 📂 Repository Contents
 
